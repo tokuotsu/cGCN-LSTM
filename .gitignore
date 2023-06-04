@@ -1,0 +1,9 @@
+/tmp/*
+/HCP.h5
+model_k_5.hdf5
+my_model.h5
+/save/12_6_regression
+/save/*
+/old&origin/
+/graph/*
+/fig/
