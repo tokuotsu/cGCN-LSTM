@@ -50,8 +50,8 @@ python -m pip install --upgrade pip setuptools
 cd /home/
 mkdir Workspace
 cd Workspace
-git clone https://github.com/tokuotsu/cGCN_shimane.git
-cd cGCN_shimane
+git clone https://github.com/tokuotsu/cGCN-LSTM.git
+cd cGCN-LSTM
 pip install -r requirement.txt
 
 # config.pyのMAIN_PATH_CGCN, MAIN_PATH_MASTERをakamalab-DL-ubuntuの方に設定。
